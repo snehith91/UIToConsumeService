@@ -1,0 +1,4 @@
+c:\users\snehithkumar\documents\visual studio 2012\Projects\UIToConsumeService\UIToConsumeService\bin\UIToConsumeService.dll
+c:\users\snehithkumar\documents\visual studio 2012\Projects\UIToConsumeService\UIToConsumeService\bin\UIToConsumeService.pdb
+c:\users\snehithkumar\documents\visual studio 2012\Projects\UIToConsumeService\UIToConsumeService\obj\Debug\UIToConsumeService.dll
+c:\users\snehithkumar\documents\visual studio 2012\Projects\UIToConsumeService\UIToConsumeService\obj\Debug\UIToConsumeService.pdb
